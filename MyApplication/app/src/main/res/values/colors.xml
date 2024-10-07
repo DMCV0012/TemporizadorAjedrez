@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_section_1">#FF6347</color>
+    <color name="color_section_2">#4682B4</color>
+    <color name="color_section_3">#32CD32</color>
+    <color name="button_color_pressed">#FF6200EE</color> <!-- Color cuando está presionado -->
+    <color name="button_color_normal">#FFBB86FC</color>
+    <color name="green">#00FF00</color>
+    <color name="original_color">#000000</color>
+    <color name="black">#000000</color>
+</resources>
